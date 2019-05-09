@@ -27,3 +27,4 @@ config.properties
 target/
 
 .settings
+/bin/
